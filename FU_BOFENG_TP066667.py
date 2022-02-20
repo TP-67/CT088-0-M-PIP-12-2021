@@ -1,5 +1,4 @@
-# FU BOFENG
-# TP066667
+import numpy as np
 
 
 def question1():
